@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "reactapp",
+    "slug": "reactapp",
+    "version": "1.0.0",
+    "sdkVersion": "38.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "host.exp.exponent"
+    },
+    "ios": {
+      "bundleIdentifier": "host.exp.exponent"
+    }
+  }
+}

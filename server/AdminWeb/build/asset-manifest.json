@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/material-dashboard-react/static/css/main.66c8aa91.chunk.css",
+    "main.js": "/material-dashboard-react/static/js/main.826c5b0c.chunk.js",
+    "main.js.map": "/material-dashboard-react/static/js/main.826c5b0c.chunk.js.map",
+    "runtime-main.js": "/material-dashboard-react/static/js/runtime-main.d0bf2bb1.js",
+    "runtime-main.js.map": "/material-dashboard-react/static/js/runtime-main.d0bf2bb1.js.map",
+    "static/css/2.892a54d7.chunk.css": "/material-dashboard-react/static/css/2.892a54d7.chunk.css",
+    "static/js/2.263eda0c.chunk.js": "/material-dashboard-react/static/js/2.263eda0c.chunk.js",
+    "static/js/2.263eda0c.chunk.js.map": "/material-dashboard-react/static/js/2.263eda0c.chunk.js.map",
+    "index.html": "/material-dashboard-react/index.html",
+    "precache-manifest.7cc3bd7d6e9c376dd6f654c8e88f3092.js": "/material-dashboard-react/precache-manifest.7cc3bd7d6e9c376dd6f654c8e88f3092.js",
+    "service-worker.js": "/material-dashboard-react/service-worker.js",
+    "static/css/2.892a54d7.chunk.css.map": "/material-dashboard-react/static/css/2.892a54d7.chunk.css.map",
+    "static/css/main.66c8aa91.chunk.css.map": "/material-dashboard-react/static/css/main.66c8aa91.chunk.css.map",
+    "static/js/2.263eda0c.chunk.js.LICENSE.txt": "/material-dashboard-react/static/js/2.263eda0c.chunk.js.LICENSE.txt",
+    "static/js/main.826c5b0c.chunk.js.LICENSE.txt": "/material-dashboard-react/static/js/main.826c5b0c.chunk.js.LICENSE.txt",
+    "static/media/Sir_sohail.jpg": "/material-dashboard-react/static/media/Sir_sohail.af188251.jpg",
+    "static/media/mam_mariam.jpg": "/material-dashboard-react/static/media/mam_mariam.e0319bbb.jpg",
+    "static/media/marc.jpg": "/material-dashboard-react/static/media/marc.8880a65c.jpg",
+    "static/media/momina.png": "/material-dashboard-react/static/media/momina.e6119932.png",
+    "static/media/sidebar-2.jpg": "/material-dashboard-react/static/media/sidebar-2.310509c9.jpg",
+    "static/media/tehmina.jpg": "/material-dashboard-react/static/media/tehmina.2684794f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0bf2bb1.js",
+    "static/css/2.892a54d7.chunk.css",
+    "static/js/2.263eda0c.chunk.js",
+    "static/css/main.66c8aa91.chunk.css",
+    "static/js/main.826c5b0c.chunk.js"
+  ]
+}
